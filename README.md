@@ -7,5 +7,5 @@ For more information see "RadioUNet: Fast Radio Map Estimation with Convolutiona
 
 ## Usage
 
-Download and extract the [RadioMapSeer dataset](https://drive.google.com/open?id=12tP5lK2MmF9QOoriLJ6dNCm6dJEJLbE7).
+Download and extract the [RadioMapSeer dataset](https://drive.google.com/open?id=1Lqxf2b1vL41BW4-PLXutDv1I4Z2UNgtV).
 For training without samples see [RadioUNet_c.ipynb](/RadioUNet_c.ipynb), and for training with measurements and perturbed urban geometry see [RadioUNet_s.ipynb](/RadioUNet_s.ipynb).
