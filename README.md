@@ -1,7 +1,7 @@
 # RadioUNet
 RadioUNet is a highly efficient and very accurate method for estimating the propagation pathloss from a point x to all points y on the 2D plane, in realistic propagation environments characterized by the presence of buildings. RadioUNet generates pathloss estimations that are very close to estimations given by physical simulation, but much faster. 
 
-For more information see "RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks."
+For more information see [RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks](https://arxiv.org/pdf/1911.09002.pdf).
 
 
 
