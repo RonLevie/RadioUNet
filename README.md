@@ -8,8 +8,11 @@ For more information see the paper [RadioUNet: Fast Radio Map Estimation with Co
 ## Usage Examples
 
 Download and extract the [RadioMapSeer dataset](https://drive.google.com/file/d/1PTaPpLOKraVCRZU_Tzev4D5ZO32tpqMO/view?usp=sharing) to the folder of the Jupyter Notebooks.
+
 For training without samples see [RadioWNet_c_DPM_Thr2.ipynb](/RadioWNet_c_DPM_Thr2.ipynb).
+
 For training with measurements and perturbed city map see [RadioWNet_s_randSim_miss4build_Thr2.ipynb](/RadioWNet_s_randSim_miss4build_Thr2.ipynb).
+
 For training with simulated cars, measurements, and input car locations, see [RadioWNet_s_DPMcars_carInput_Thr2.ipynb](/RadioWNet_s_DPMcars_carInput_Thr2.ipynb).
 
 
